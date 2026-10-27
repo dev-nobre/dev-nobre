@@ -14,11 +14,14 @@
 
 I'm a Full-Stack Developer and Information Systems student focused on building complete, production-ready web applications. My work spans from architecting RESTful APIs and NoSQL databases to crafting clean, responsive interfaces — always with a focus on real-world usability and scalable design.
 
-Currently building **EmberDesk**, a multi-tenant SaaS helpdesk platform for IT support teams, covering everything from ticket management and role-based access control to asset tracking and a native client app.
+Currently building two multi-tenant projects:
+
+- **EmberDesk**, a SaaS helpdesk platform for IT support teams, covering ticket management, role-based access control, asset tracking and a native client app.
+- **Signature Studio**, a multi-tenant email signature generator with a live preview, light/dark themes, accessibility-focused UI and, soon, OAuth login and role-based access control.
 
 ---
 
-## Featured Project
+## Featured Projects
 
 <table>
   <tr>
@@ -26,7 +29,19 @@ Currently building **EmberDesk**, a multi-tenant SaaS helpdesk platform for IT s
       <strong>EmberDesk</strong> — SaaS Helpdesk & Ticketing System<br/>
       Multi-tenant architecture · JWT Auth · Role-based access · Asset tracking · Knowledge base · App Client integration<br/>
       <sub>React · Node.js · Express · MongoDB · Vite · Tailwind CSS</sub><br/><br/>
+      <img src="https://img.shields.io/badge/Status-In_Development-F97316?style=flat-square" />
       <a href="https://github.com/dev-nobre/EmberDesk">
+        <img src="https://img.shields.io/badge/View_Repository-853DD8?style=flat-square&logo=github&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <strong>Signature Studio</strong> — Multi-Tenant Email Signature Generator<br/>
+      Live preview · Light/Dark themes · Adjustable font size · Responsive layout · Accessibility-first UI<br/>
+      <sub>Next.js · React · TypeScript · Tailwind CSS</sub><br/><br/>
+      <img src="https://img.shields.io/badge/Status-In_Development-F97316?style=flat-square" />
+      <a href="https://github.com/dev-nobre/Signature-Studio">
         <img src="https://img.shields.io/badge/View_Repository-853DD8?style=flat-square&logo=github&logoColor=white" />
       </a>
     </td>
